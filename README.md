@@ -1,4 +1,4 @@
-# HMOG_Data_Analysis
+# HMOG Data Analysis
 
 https://public.tableau.com/profile/faraz.hosseinzadeh.zorofchi#!/vizhome/HMOGDataAnalysis-DistributionofTimeperGestureandActivity/Dashboard1
 
