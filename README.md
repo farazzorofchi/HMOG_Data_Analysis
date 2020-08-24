@@ -1,6 +1,8 @@
 # HMOG Data Analysis
 
-Pre-processing and visualization of HMOG dataset using Tableau and Python. An interactive plot was created using Tableau and is available in the link below:
+H-mog data set is a multimodal data set for evaluating continuous authentication performance in smartphones. [a link](http://www.cs.wm.edu/~qyang/hmog.html)
+
+In this repository, pre-processing and visualization of HMOG dataset using Tableau and Python is presented. An interactive plot was created using Tableau and is available in the link below:
 
 https://public.tableau.com/profile/faraz.hosseinzadeh.zorofchi#!/vizhome/HMOGDataAnalysis-DistributionofTimeperGestureandActivity/Dashboard1
 
@@ -8,8 +10,7 @@ https://public.tableau.com/profile/faraz.hosseinzadeh.zorofchi#!/vizhome/HMOGDat
  
  Also the following plots were generated using the hmog_visualization.py.
  
-  ![alt text](static/all_activities_plot_cum.pdf)
-  
-  ![alt text](static/all_activities_plot_hist.pdf)
+ ![alt text](static/all_activities_plot_hist.png)
  
+ ![alt text](static/all_activities_plot_cum.png)
  
