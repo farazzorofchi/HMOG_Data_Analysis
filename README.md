@@ -1,6 +1,6 @@
 # HMOG Data Analysis
 
-H-mog data set is a multimodal data set for evaluating continuous authentication performance in smartphones. [a link](http://www.cs.wm.edu/~qyang/hmog.html)
+H-mog data set is a multimodal data set for evaluating continuous authentication performance in smartphones. [http://www.cs.wm.edu/~qyang/hmog.html](http://www.cs.wm.edu/~qyang/hmog.html)
 
 In this repository, pre-processing and visualization of HMOG dataset using Tableau and Python is presented. An interactive plot was created using Tableau and is available in the link below:
 
